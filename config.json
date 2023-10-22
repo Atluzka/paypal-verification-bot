@@ -1,0 +1,14 @@
+{
+    "token": "YOUR-DISCORD-BOT-TOKEN",
+    "guild-id": "YOUR-GUILD-ID",
+    "paypal-client-id": "YOUR-PAYPAL-CLIENT-ID",
+    "paypal-secret": "YOUR-PAYPAL-SECRET",
+    "minimum-payment-amount": 5.0,
+    "accepted-currency": ["USD", "EUR"],
+    "premium-role": "GUILD-PREMIUM-ROLE-ID",
+
+    "admins": [
+      1069901776649723935,
+      1069901776649723935
+    ]
+}
